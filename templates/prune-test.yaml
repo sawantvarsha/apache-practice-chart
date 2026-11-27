@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: prune-practice
-data:
-  message: "Learning Argo CD Prune"
